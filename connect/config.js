@@ -4,9 +4,9 @@ const chalk = require("chalk")
 /*Ubah Nama & Dll Cukup Dari sini(Udah Di set biar smua nama & wm Bisa diubah dari sini) 
 Biar Newbie Gapusing ubah nama² 
 Other*/
-global.thum = fs.readFileSync("./worker/media/image/thumb.jpg")
-global.log0 = fs.readFileSync("./worker/media/image/thumb.jpg")
-global.err4r = fs.readFileSync("./worker/media/image/thumb.jpg")
+global.thum = fs.readFileSync("./worker/media/image/SAVE_20220618_164334.jpg")
+global.log0 = fs.readFileSync("./worker/media/image/SAVE_20220618_164334.jpg")
+global.err4r = fs.readFileSync("./worker/media/image/SAVE_20220618_164334.jpg")
 global.owner = ['62895338690940','62895338690940','62895338690940']
 global.footer = "YuutaBotz-Ganz"
 global.fake = "YuutaGanz-Botz"
